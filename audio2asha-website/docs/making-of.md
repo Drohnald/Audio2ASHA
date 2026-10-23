@@ -11,11 +11,13 @@ A I2S analog to digital converter using a WM8782
 Wiring is done with simple jumper cables.
 
 Wiring is:
+```
 WM8782S DATA  -> Pico GP2
 WM8782S BICK  -> Pico GP10
 WM8782S LRCK  -> Pico GP11
 WM8782S DGND  -> Pico GND
 WM8782S VCC   -> Pico VBUS / 5 V
+```
 
 The micro-USB cable was cut and the red power line was soldered to the switch which controls now power to the Pico board 
 
@@ -47,25 +49,29 @@ Have the switch on the other side, where the Bluetooth sender is.
     Adds an analog TV-audio input to Pico-ASHA using a WM8782S stereo ADC to hook a TV up hearing aids using ASHA
  
   Hardware:
+```
     - Raspberry Pi Pico 2 W
     - WM8782S ADC board
     - ViO T33 6 Li hearing aids
- 
+```
+
   WM8782S configuration:
+  ```
     - ADC is I2S controller/master
     - Pico is I2S target/slave
     - 96 kHz sample rate
     - 24-bit stereo audio
     - 32-bit I2S slots
     - External/onboard MCLK on the WM8782S board
- 
+ ```
   Wiring:
+```
     WM8782S DATA  -> Pico GP2
     WM8782S BICK  -> Pico GP10
     WM8782S LRCK  -> Pico GP11
     WM8782S DGND  -> Pico GND
     WM8782S VCC   -> Pico VBUS / 5 V
- 
+ ```
   Audio processing:
  
     WM8782S
