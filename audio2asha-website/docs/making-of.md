@@ -26,9 +26,9 @@ The micro-USB cable was cut and the red power line was soldered to the switch wh
 
 ## Final Form
 
-The case was 3d-printed. H
-[Download the scad model here](case/Case_wSwitch_final.scad)
-[These are the final dimensions.](Pico_ADC_dimensions.pdf)
+The case was 3d-printed.
+- [Download the scad model here](case/Case_wSwitch_final.scad)
+- [These are the final dimensions.](Pico_ADC_dimensions.pdf)
 
 Make sure to mesaure your own boards, if the are the same! Especially have a look at the mounting holes and how far they are apart. Your board may have slightley different dimensions!
 
