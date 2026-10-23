@@ -23,8 +23,6 @@ The micro-USB cable was cut and the red power line was soldered to the switch wh
 
 ![Wiring in the box](images/wiring.jpg)
 
-Document the wiring, enclosure, and any lessons learned during assembly.
-
 
 ## Final Form
 
