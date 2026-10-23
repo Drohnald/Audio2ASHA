@@ -2,7 +2,7 @@
 site_name = "Audio2ASHA"
 site_description = "USB and analog audio streaming to ASHA-capable hearing aids."
 # Set this to your final GitHub Pages URL before publishing, for example:
-# site_url = "https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/"
+# site_url = "https://github.com/Drohnald/Audio2ASHA/"
 
 nav = [
   { "Overview" = "index.md" },
