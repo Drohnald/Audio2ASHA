@@ -11,11 +11,11 @@ A I2S analog to digital converter using a WM8782
 Wiring is done with simple jumper cables.
 
 Wiring is:
-    WM8782S DATA  -> Pico GP2
-    WM8782S BICK  -> Pico GP10
-    WM8782S LRCK  -> Pico GP11
-    WM8782S DGND  -> Pico GND
-    WM8782S VCC   -> Pico VBUS / 5 V
+WM8782S DATA  -> Pico GP2
+WM8782S BICK  -> Pico GP10
+WM8782S LRCK  -> Pico GP11
+WM8782S DGND  -> Pico GND
+WM8782S VCC   -> Pico VBUS / 5 V
 
 The micro-USB cable was cut and the red power line was soldered to the switch which controls now power to the Pico board 
 
