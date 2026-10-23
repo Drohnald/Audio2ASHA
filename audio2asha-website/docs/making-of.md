@@ -121,10 +121,10 @@
 ## The hardware
 
 A Raspberry Pi Pico 2 W
-![Raspberry Pi Pico 2 W](pic2wboard.jpg)
+![Raspberry Pi Pico 2 W](images/pic2wboard.jpg)
 
 A I2S analog to digital converter using a WM8782
-![I2S ADC](adcboard.jpg)
+![I2S ADC](images/adcboard.jpg)
 
 
 
@@ -139,8 +139,8 @@ Document the wiring, enclosure, and any lessons learned during assembly.
 
 ## Final Form
 
-![Final Box 1](box1.jpg)
-![Final Box 2](box2.jpg)
+![Final Box 1](images/box1.jpg)
+![Final Box 2](images/box2.jpg)
 
 
 ## Future stuff do to
