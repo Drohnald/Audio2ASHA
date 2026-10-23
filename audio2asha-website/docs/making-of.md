@@ -1,3 +1,35 @@
+## The hardware
+
+A Raspberry Pi Pico 2 W
+![Raspberry Pi Pico 2 W](images/pic2wboard.jpg)
+
+A I2S analog to digital converter using a WM8782
+![I2S ADC](images/adcboard.jpg)
+
+## Assembly and wiring
+
+Wiring is done with simple jumper cables.
+
+![Wiring in the box](images/wiring.jpg)
+
+Document the wiring, enclosure, and any lessons learned during assembly.
+
+
+## Final Form
+
+![Final Box 1](images/box1.jpg)
+![Final Box 2](images/box2.jpg)
+
+
+## Future stuff do to
+It buzzes when using the TVs USB ports. Most likely ground loop, hard to fix. Workaround: Use different USB power source.
+Case with better pillars to use correct screws. The ADC would need M2.5x5 screws atm. But it works for now.
+
+Have the switch on the other side, where the Bluetooth sender is.
+
+
+## little docu of what this does
+
 # Making of
   WM8782S I2S input bridge for Pico-ASHA
   =======================================
@@ -116,35 +148,3 @@
     - Standalone operation from a USB power supply
     - Automatic ASHA stop/start on analog silence
  
-
-
-## The hardware
-
-A Raspberry Pi Pico 2 W
-![Raspberry Pi Pico 2 W](images/pic2wboard.jpg)
-
-A I2S analog to digital converter using a WM8782
-![I2S ADC](images/adcboard.jpg)
-
-
-
-## Assembly and wiring
-
-Wiring is done with simple jumper cables.
-
-![Wiring in the box](images/wiring.jpg)
-
-Document the wiring, enclosure, and any lessons learned during assembly.
-
-
-## Final Form
-
-![Final Box 1](images/box1.jpg)
-![Final Box 2](images/box2.jpg)
-
-
-## Future stuff do to
-It buzzes when using the TVs USB ports. Most likely ground loop, hard to fix. Workaround: Use different USB power source.
-Case with better pillars to use correct screws. The ADC would need M2.5x5 screws atm. But it works for now.
-
-Have the switch on the other side, where the Bluetooth sender is.
