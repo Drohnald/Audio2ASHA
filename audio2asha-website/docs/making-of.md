@@ -44,9 +44,8 @@ Case with better pillars to use correct screws. The ADC would need M2.5x5 screws
 Have the switch on the other side, where the Bluetooth sender is.
 
 
-## little docu of what this does
+## Short description of what it currently does.
 
-# Making of
   WM8782S I2S input bridge for Pico-ASHA
   =======================================
  
